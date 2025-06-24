@@ -1,5 +1,5 @@
 {
-  "name": "@onekeyfe/react-native-ble-utils",
+  "name": "@qiaomcfe/react-native-ble-utils",
   "version": "0.1.4",
   "description": "ble uilts",
   "source": "./src/index.tsx",
@@ -42,14 +42,14 @@
   ],
   "repository": {
     "type": "git",
-    "url": "git@github.com:OneKeyHQ/react-native-ble-utils.git"
+    "url": "git@github.com:QiaoMcHQ/react-native-ble-utils.git"
   },
-  "author": "OnekeyHQ <dev@onekey.so> (https://onekey.so)",
+  "author": "QiaomcHQ <dev@qiaomc.so> (https://qiaomc.so)",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/OneKeyHQ/react-native-ble-utils/issues"
+    "url": "https://github.com/QiaoMCHQ/react-native-ble-utils/issues"
   },
-  "homepage": "https://github.com/OneKeyHQ/react-native-ble-utils#readme",
+  "homepage": "https://github.com/QiaoMcHQ/react-native-ble-utils#readme",
   "publishConfig": {
     "registry": "https://registry.npmjs.org/",
     "access": "public"

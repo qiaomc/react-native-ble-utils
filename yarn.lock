@@ -2591,35 +2591,6 @@ __metadata:
   languageName: node
   linkType: hard
 
-"@onekeyfe/react-native-ble-utils@workspace:.":
-  version: 0.0.0-use.local
-  resolution: "@onekeyfe/react-native-ble-utils@workspace:."
-  dependencies:
-    "@commitlint/config-conventional": ^17.0.2
-    "@evilmartians/lefthook": ^1.5.0
-    "@react-native/eslint-config": ^0.73.1
-    "@release-it/conventional-changelog": ^9.0.2
-    "@types/jest": ^29.5.5
-    "@types/react": ^18.2.44
-    commitlint: ^17.0.2
-    del-cli: ^5.1.0
-    eslint: ^8.51.0
-    eslint-config-prettier: ^9.0.0
-    eslint-plugin-prettier: ^5.0.1
-    jest: ^29.7.0
-    prettier: ^3.0.3
-    react: 19.0.0
-    react-native: 0.73.7
-    react-native-builder-bob: ^0.37.0
-    release-it: ^17.10.0
-    turbo: ^1.10.7
-    typescript: ^5.2.2
-  peerDependencies:
-    react: "*"
-    react-native: "*"
-  languageName: unknown
-  linkType: soft
-
 "@pkgjs/parseargs@npm:^0.11.0":
   version: 0.11.0
   resolution: "@pkgjs/parseargs@npm:0.11.0"
@@ -2660,6 +2631,35 @@ __metadata:
   checksum: 9e1e1ce5faa64719e866b02d10e28d727d809365eb3692ccfdc420ab6d2073b93abe403994691868f265e34a5601a8eee18ffff6562b27124d971418ba6bb815
   languageName: node
   linkType: hard
+
+"@qiaomcfe/react-native-ble-utils@workspace:.":
+  version: 0.0.0-use.local
+  resolution: "@qiaomcfe/react-native-ble-utils@workspace:."
+  dependencies:
+    "@commitlint/config-conventional": ^17.0.2
+    "@evilmartians/lefthook": ^1.5.0
+    "@react-native/eslint-config": ^0.73.1
+    "@release-it/conventional-changelog": ^9.0.2
+    "@types/jest": ^29.5.5
+    "@types/react": ^18.2.44
+    commitlint: ^17.0.2
+    del-cli: ^5.1.0
+    eslint: ^8.51.0
+    eslint-config-prettier: ^9.0.0
+    eslint-plugin-prettier: ^5.0.1
+    jest: ^29.7.0
+    prettier: ^3.0.3
+    react: 19.0.0
+    react-native: 0.73.7
+    react-native-builder-bob: ^0.37.0
+    release-it: ^17.10.0
+    turbo: ^1.10.7
+    typescript: ^5.2.2
+  peerDependencies:
+    react: "*"
+    react-native: "*"
+  languageName: unknown
+  linkType: soft
 
 "@react-native-community/cli-clean@npm:12.3.6":
   version: 12.3.6

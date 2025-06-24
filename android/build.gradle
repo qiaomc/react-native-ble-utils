@@ -42,7 +42,7 @@ def supportsNamespace() {
 
 android {
   if (supportsNamespace()) {
-    namespace "so.onekey.lib.ble.utils"
+    namespace "so.qiaomc.lib.ble.utils"
 
     sourceSets {
       main {

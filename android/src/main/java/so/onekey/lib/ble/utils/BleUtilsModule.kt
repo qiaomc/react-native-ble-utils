@@ -1,4 +1,4 @@
-package so.onekey.lib.ble.utils
+package so.qiaomc.lib.ble.utils
 
 import android.annotation.SuppressLint
 import android.bluetooth.BluetoothAdapter
@@ -16,7 +16,7 @@ import android.os.Looper
 import android.util.Log
 import com.facebook.react.bridge.*
 import com.facebook.react.modules.core.DeviceEventManagerModule
-import so.onekey.lib.ble.utils.data.Peripheral
+import so.qiaomc.lib.ble.utils.data.Peripheral
 
 
 class BleUtilsModule(private val reactContext: ReactApplicationContext) :
