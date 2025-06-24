@@ -7,6 +7,7 @@ type PairDeviceResult = {
   bonding: boolean;
 };
 
+
 class BleUtils {
   UiEventEmitter: NativeEventEmitter | null = null;
 
